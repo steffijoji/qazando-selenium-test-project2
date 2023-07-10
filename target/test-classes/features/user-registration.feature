@@ -1,9 +1,9 @@
 # language: pt
 
-  @cadastro
+  @registration
   Funcionalidade: Cadastro de usuário
 
-    @cadastro-sucesso
+    @successful-registration
     Cenario: Registrar novo usuário com sucesso
       Dado que estou na tela de login
       E acesso o cadastro de usuário
